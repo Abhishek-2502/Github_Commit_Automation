@@ -18,7 +18,7 @@ This script automatically commits changes to a specified Git repository when you
 ### Step 2: Prepare the Repository
 
 1. Empty the `README.md` file manually.
-2. Clone the repository to your local machine using the command:
+2. Clone the repository to your local machine in <b>C: Drive (To gain permissions)</b> using the command:
    ```bash
    git clone <link_of_git_repo>
    ```
