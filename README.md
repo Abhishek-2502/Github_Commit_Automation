@@ -19,6 +19,7 @@ This script automatically commits changes to a specified Git repository when you
 
 1. Empty the `README.md` file manually.
 2. Clone the repository to your local machine in <b>C: Drive (To gain permissions)</b> using the command:
+   
    ```bash
    git clone <link_of_git_repo>
    ```
@@ -27,6 +28,7 @@ This script automatically commits changes to a specified Git repository when you
 
 1. Open the command prompt (`cmd`) inside the cloned repository directory.
 2. Run the following commands to set up the repository:
+
    ```bash
    git add .
    git commit -m "Initial setup"
@@ -37,7 +39,8 @@ This script automatically commits changes to a specified Git repository when you
 
 1. Download the provided script and save it to your local machine.
 2. Copy the path of the cloned repository.
-3. Open the script in a text editor and update the path in the script:
+3. Open the script in a text editor and update the path in the script for example:
+   
    ```batch
    cd C:\Users\abhis\OneDrive\Desktop\DSA_Java
    ```
