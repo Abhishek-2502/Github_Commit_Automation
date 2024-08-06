@@ -1,6 +1,7 @@
 # Automated Git Commit Script
 
-This script automatically commits changes to a specified Git repository when your PC starts. Follow the steps below to set up and use the script.
+This script automatically commits changes to a specified Git repository when your PC starts, helping to increase your contributions and maintain your daily streak. 
+Follow the steps below to set up and use the script.
 
 ## Prerequisites
 
